@@ -12,5 +12,7 @@ create table medicos(
     uf            char(2)      NOT NULL,
     cidade        VARCHAR(100) NOT NULL,
 
-    primary key(id)
+    PRIMARY KEY(id)
+
+
 );

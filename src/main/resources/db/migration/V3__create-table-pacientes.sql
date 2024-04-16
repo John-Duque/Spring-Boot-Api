@@ -12,5 +12,5 @@ CREATE TABLE pacientes(
     uf          CHAR(2)      NOT NULL,
     cidade      VARCHAR(100) NOT NULL,
 
-    primary key(id)
+    PRIMARY KEY(id)
 );
